@@ -1,0 +1,16 @@
+C:\Users\ademk\OneDrive\Masaüstü\C# Projects\JobTrackingProject\JobTrackingProject.Business\obj\Debug\netcoreapp3.1\JobTrackingProject.Business.csprojAssemblyReference.cache
+C:\Users\ademk\OneDrive\Masaüstü\C# Projects\JobTrackingProject\JobTrackingProject.Business\obj\Debug\netcoreapp3.1\JobTrackingProject.Business.AssemblyInfoInputs.cache
+C:\Users\ademk\OneDrive\Masaüstü\C# Projects\JobTrackingProject\JobTrackingProject.Business\obj\Debug\netcoreapp3.1\JobTrackingProject.Business.AssemblyInfo.cs
+C:\Users\ademk\OneDrive\Masaüstü\C# Projects\JobTrackingProject\JobTrackingProject.Business\obj\Debug\netcoreapp3.1\JobTrackingProject.Business.csproj.CoreCompileInputs.cache
+C:\Users\ademk\OneDrive\Masaüstü\C# Projects\JobTrackingProject\JobTrackingProject.Business\bin\Debug\netcoreapp3.1\JobTrackingProject.Business.deps.json
+C:\Users\ademk\OneDrive\Masaüstü\C# Projects\JobTrackingProject\JobTrackingProject.Business\bin\Debug\netcoreapp3.1\JobTrackingProject.Business.dll
+C:\Users\ademk\OneDrive\Masaüstü\C# Projects\JobTrackingProject\JobTrackingProject.Business\bin\Debug\netcoreapp3.1\JobTrackingProject.Business.pdb
+C:\Users\ademk\OneDrive\Masaüstü\C# Projects\JobTrackingProject\JobTrackingProject.Business\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\ademk\OneDrive\Masaüstü\C# Projects\JobTrackingProject\JobTrackingProject.Business\bin\Debug\netcoreapp3.1\JobTrackingProject.DataAccess.dll
+C:\Users\ademk\OneDrive\Masaüstü\C# Projects\JobTrackingProject\JobTrackingProject.Business\bin\Debug\netcoreapp3.1\JobTrackingProject.Entities.dll
+C:\Users\ademk\OneDrive\Masaüstü\C# Projects\JobTrackingProject\JobTrackingProject.Business\bin\Debug\netcoreapp3.1\JobTrackingProject.DataAccess.pdb
+C:\Users\ademk\OneDrive\Masaüstü\C# Projects\JobTrackingProject\JobTrackingProject.Business\bin\Debug\netcoreapp3.1\JobTrackingProject.Entities.pdb
+C:\Users\ademk\OneDrive\Masaüstü\C# Projects\JobTrackingProject\JobTrackingProject.Business\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\ademk\OneDrive\Masaüstü\C# Projects\JobTrackingProject\JobTrackingProject.Business\obj\Debug\netcoreapp3.1\JobTrackingProject.Business.csproj.CopyComplete
+C:\Users\ademk\OneDrive\Masaüstü\C# Projects\JobTrackingProject\JobTrackingProject.Business\obj\Debug\netcoreapp3.1\JobTrackingProject.Business.dll
+C:\Users\ademk\OneDrive\Masaüstü\C# Projects\JobTrackingProject\JobTrackingProject.Business\obj\Debug\netcoreapp3.1\JobTrackingProject.Business.pdb

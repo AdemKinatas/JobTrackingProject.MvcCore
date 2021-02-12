@@ -1,0 +1,12 @@
+C:\Users\ademk\OneDrive\Masaüstü\C# Projects\JobTrackingProject\JobTrackingProject.Entities\obj\Debug\netcoreapp3.1\JobTrackingProject.Entities.csprojAssemblyReference.cache
+C:\Users\ademk\OneDrive\Masaüstü\C# Projects\JobTrackingProject\JobTrackingProject.Entities\obj\Debug\netcoreapp3.1\JobTrackingProject.Entities.AssemblyInfoInputs.cache
+C:\Users\ademk\OneDrive\Masaüstü\C# Projects\JobTrackingProject\JobTrackingProject.Entities\obj\Debug\netcoreapp3.1\JobTrackingProject.Entities.AssemblyInfo.cs
+C:\Users\ademk\OneDrive\Masaüstü\C# Projects\JobTrackingProject\JobTrackingProject.Entities\obj\Debug\netcoreapp3.1\JobTrackingProject.Entities.csproj.CoreCompileInputs.cache
+C:\Users\ademk\OneDrive\Masaüstü\C# Projects\JobTrackingProject\JobTrackingProject.Entities\bin\Debug\netcoreapp3.1\JobTrackingProject.Entities.deps.json
+C:\Users\ademk\OneDrive\Masaüstü\C# Projects\JobTrackingProject\JobTrackingProject.Entities\bin\Debug\netcoreapp3.1\JobTrackingProject.Entities.dll
+C:\Users\ademk\OneDrive\Masaüstü\C# Projects\JobTrackingProject\JobTrackingProject.Entities\bin\Debug\netcoreapp3.1\JobTrackingProject.Entities.pdb
+C:\Users\ademk\OneDrive\Masaüstü\C# Projects\JobTrackingProject\JobTrackingProject.Entities\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\ademk\OneDrive\Masaüstü\C# Projects\JobTrackingProject\JobTrackingProject.Entities\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\ademk\OneDrive\Masaüstü\C# Projects\JobTrackingProject\JobTrackingProject.Entities\obj\Debug\netcoreapp3.1\JobTrackingProject.Entities.csproj.CopyComplete
+C:\Users\ademk\OneDrive\Masaüstü\C# Projects\JobTrackingProject\JobTrackingProject.Entities\obj\Debug\netcoreapp3.1\JobTrackingProject.Entities.dll
+C:\Users\ademk\OneDrive\Masaüstü\C# Projects\JobTrackingProject\JobTrackingProject.Entities\obj\Debug\netcoreapp3.1\JobTrackingProject.Entities.pdb
