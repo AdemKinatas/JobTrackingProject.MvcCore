@@ -6472,11 +6472,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ademk\\OneDrive\\Masaüstü\\C# Projects\\JobTrackingProject\\JobTrackingProject.Business\\JobTrackingProject.Business.csproj",
+      "projectUniqueName": "C:\\Users\\ademk\\OneDrive\\Belgeler\\GitHub\\JobTrackingProject\\JobTrackingProject.MvcCore\\JobTrackingProject.Business\\JobTrackingProject.Business.csproj",
       "projectName": "JobTrackingProject.Business",
-      "projectPath": "C:\\Users\\ademk\\OneDrive\\Masaüstü\\C# Projects\\JobTrackingProject\\JobTrackingProject.Business\\JobTrackingProject.Business.csproj",
+      "projectPath": "C:\\Users\\ademk\\OneDrive\\Belgeler\\GitHub\\JobTrackingProject\\JobTrackingProject.MvcCore\\JobTrackingProject.Business\\JobTrackingProject.Business.csproj",
       "packagesPath": "C:\\Users\\ademk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ademk\\OneDrive\\Masaüstü\\C# Projects\\JobTrackingProject\\JobTrackingProject.Business\\obj\\",
+      "outputPath": "C:\\Users\\ademk\\OneDrive\\Belgeler\\GitHub\\JobTrackingProject\\JobTrackingProject.MvcCore\\JobTrackingProject.Business\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -6497,8 +6497,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\ademk\\OneDrive\\Masaüstü\\C# Projects\\JobTrackingProject\\JobTrackingProject.DataAccess\\JobTrackingProject.DataAccess.csproj": {
-              "projectPath": "C:\\Users\\ademk\\OneDrive\\Masaüstü\\C# Projects\\JobTrackingProject\\JobTrackingProject.DataAccess\\JobTrackingProject.DataAccess.csproj"
+            "C:\\Users\\ademk\\OneDrive\\Belgeler\\GitHub\\JobTrackingProject\\JobTrackingProject.MvcCore\\JobTrackingProject.DataAccess\\JobTrackingProject.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\ademk\\OneDrive\\Belgeler\\GitHub\\JobTrackingProject\\JobTrackingProject.MvcCore\\JobTrackingProject.DataAccess\\JobTrackingProject.DataAccess.csproj"
             }
           }
         }

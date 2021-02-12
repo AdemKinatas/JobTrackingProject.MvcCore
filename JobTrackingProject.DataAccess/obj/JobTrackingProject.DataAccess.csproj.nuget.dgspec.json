@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ademk\\OneDrive\\Masaüstü\\C# Projects\\JobTrackingProject\\JobTrackingProject.DataAccess\\JobTrackingProject.DataAccess.csproj": {}
+    "C:\\Users\\ademk\\OneDrive\\Belgeler\\GitHub\\JobTrackingProject\\JobTrackingProject.MvcCore\\JobTrackingProject.DataAccess\\JobTrackingProject.DataAccess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ademk\\OneDrive\\Masaüstü\\C# Projects\\JobTrackingProject\\Core\\Core.csproj": {
+    "C:\\Users\\ademk\\OneDrive\\Belgeler\\GitHub\\JobTrackingProject\\JobTrackingProject.MvcCore\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ademk\\OneDrive\\Masaüstü\\C# Projects\\JobTrackingProject\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\ademk\\OneDrive\\Belgeler\\GitHub\\JobTrackingProject\\JobTrackingProject.MvcCore\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\ademk\\OneDrive\\Masaüstü\\C# Projects\\JobTrackingProject\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\ademk\\OneDrive\\Belgeler\\GitHub\\JobTrackingProject\\JobTrackingProject.MvcCore\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\ademk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ademk\\OneDrive\\Masaüstü\\C# Projects\\JobTrackingProject\\Core\\obj\\",
+        "outputPath": "C:\\Users\\ademk\\OneDrive\\Belgeler\\GitHub\\JobTrackingProject\\JobTrackingProject.MvcCore\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -68,14 +68,14 @@
         }
       }
     },
-    "C:\\Users\\ademk\\OneDrive\\Masaüstü\\C# Projects\\JobTrackingProject\\JobTrackingProject.DataAccess\\JobTrackingProject.DataAccess.csproj": {
+    "C:\\Users\\ademk\\OneDrive\\Belgeler\\GitHub\\JobTrackingProject\\JobTrackingProject.MvcCore\\JobTrackingProject.DataAccess\\JobTrackingProject.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ademk\\OneDrive\\Masaüstü\\C# Projects\\JobTrackingProject\\JobTrackingProject.DataAccess\\JobTrackingProject.DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\ademk\\OneDrive\\Belgeler\\GitHub\\JobTrackingProject\\JobTrackingProject.MvcCore\\JobTrackingProject.DataAccess\\JobTrackingProject.DataAccess.csproj",
         "projectName": "JobTrackingProject.DataAccess",
-        "projectPath": "C:\\Users\\ademk\\OneDrive\\Masaüstü\\C# Projects\\JobTrackingProject\\JobTrackingProject.DataAccess\\JobTrackingProject.DataAccess.csproj",
+        "projectPath": "C:\\Users\\ademk\\OneDrive\\Belgeler\\GitHub\\JobTrackingProject\\JobTrackingProject.MvcCore\\JobTrackingProject.DataAccess\\JobTrackingProject.DataAccess.csproj",
         "packagesPath": "C:\\Users\\ademk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ademk\\OneDrive\\Masaüstü\\C# Projects\\JobTrackingProject\\JobTrackingProject.DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\ademk\\OneDrive\\Belgeler\\GitHub\\JobTrackingProject\\JobTrackingProject.MvcCore\\JobTrackingProject.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -96,8 +96,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\ademk\\OneDrive\\Masaüstü\\C# Projects\\JobTrackingProject\\JobTrackingProject.Entities\\JobTrackingProject.Entities.csproj": {
-                "projectPath": "C:\\Users\\ademk\\OneDrive\\Masaüstü\\C# Projects\\JobTrackingProject\\JobTrackingProject.Entities\\JobTrackingProject.Entities.csproj"
+              "C:\\Users\\ademk\\OneDrive\\Belgeler\\GitHub\\JobTrackingProject\\JobTrackingProject.MvcCore\\JobTrackingProject.Entities\\JobTrackingProject.Entities.csproj": {
+                "projectPath": "C:\\Users\\ademk\\OneDrive\\Belgeler\\GitHub\\JobTrackingProject\\JobTrackingProject.MvcCore\\JobTrackingProject.Entities\\JobTrackingProject.Entities.csproj"
               }
             }
           }
@@ -152,14 +152,14 @@
         }
       }
     },
-    "C:\\Users\\ademk\\OneDrive\\Masaüstü\\C# Projects\\JobTrackingProject\\JobTrackingProject.Entities\\JobTrackingProject.Entities.csproj": {
+    "C:\\Users\\ademk\\OneDrive\\Belgeler\\GitHub\\JobTrackingProject\\JobTrackingProject.MvcCore\\JobTrackingProject.Entities\\JobTrackingProject.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ademk\\OneDrive\\Masaüstü\\C# Projects\\JobTrackingProject\\JobTrackingProject.Entities\\JobTrackingProject.Entities.csproj",
+        "projectUniqueName": "C:\\Users\\ademk\\OneDrive\\Belgeler\\GitHub\\JobTrackingProject\\JobTrackingProject.MvcCore\\JobTrackingProject.Entities\\JobTrackingProject.Entities.csproj",
         "projectName": "JobTrackingProject.Entities",
-        "projectPath": "C:\\Users\\ademk\\OneDrive\\Masaüstü\\C# Projects\\JobTrackingProject\\JobTrackingProject.Entities\\JobTrackingProject.Entities.csproj",
+        "projectPath": "C:\\Users\\ademk\\OneDrive\\Belgeler\\GitHub\\JobTrackingProject\\JobTrackingProject.MvcCore\\JobTrackingProject.Entities\\JobTrackingProject.Entities.csproj",
         "packagesPath": "C:\\Users\\ademk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ademk\\OneDrive\\Masaüstü\\C# Projects\\JobTrackingProject\\JobTrackingProject.Entities\\obj\\",
+        "outputPath": "C:\\Users\\ademk\\OneDrive\\Belgeler\\GitHub\\JobTrackingProject\\JobTrackingProject.MvcCore\\JobTrackingProject.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -180,8 +180,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\ademk\\OneDrive\\Masaüstü\\C# Projects\\JobTrackingProject\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\ademk\\OneDrive\\Masaüstü\\C# Projects\\JobTrackingProject\\Core\\Core.csproj"
+              "C:\\Users\\ademk\\OneDrive\\Belgeler\\GitHub\\JobTrackingProject\\JobTrackingProject.MvcCore\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\ademk\\OneDrive\\Belgeler\\GitHub\\JobTrackingProject\\JobTrackingProject.MvcCore\\Core\\Core.csproj"
               }
             }
           }

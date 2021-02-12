@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0u5gO6Q+4kkOxOWnuNAWzHq1o4ruL7DaONFvlY4F0TeeHSOQ0JuZcsb+Uayw3XSuMLGsvju/Kr70pkkC169xpQ==",
+  "dgSpecHash": "J8nTtZPlS31xd2gjN/DnmkcSdq4qkQE/0YMsFNoClJFXEoaJe+5gzc9nzt94p2X62HeyrVbuHfYAPTu+C06T2g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ademk\\OneDrive\\Masaüstü\\C# Projects\\JobTrackingProject\\Core\\Core.csproj",
+  "projectFilePath": "C:\\Users\\ademk\\OneDrive\\Belgeler\\GitHub\\JobTrackingProject\\JobTrackingProject.MvcCore\\Core\\Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ademk\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\ademk\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",

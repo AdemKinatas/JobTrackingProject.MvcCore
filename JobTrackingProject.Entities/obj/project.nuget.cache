@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "m6dA8rSzVTBplbFfB/w6s1gdmlwaxyDRYCClV+sfTp8oCgRS10Rd2z58VH5ex/k0DiPXYizd2ds8K1s/LvJ0aA==",
+  "dgSpecHash": "OsoqirX6fPZDzCX+Re3nxRZSBZxjIvkadA1LEq51gbK7MmFeziHLxXmi2on7FJEoAtVb46skTMwWDBPZnXlU9Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ademk\\OneDrive\\Masaüstü\\C# Projects\\JobTrackingProject\\JobTrackingProject.Entities\\JobTrackingProject.Entities.csproj",
+  "projectFilePath": "C:\\Users\\ademk\\OneDrive\\Belgeler\\GitHub\\JobTrackingProject\\JobTrackingProject.MvcCore\\JobTrackingProject.Entities\\JobTrackingProject.Entities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ademk\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.11\\microsoft.aspnetcore.cryptography.internal.3.1.11.nupkg.sha512",
     "C:\\Users\\ademk\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.11\\microsoft.aspnetcore.cryptography.keyderivation.3.1.11.nupkg.sha512",

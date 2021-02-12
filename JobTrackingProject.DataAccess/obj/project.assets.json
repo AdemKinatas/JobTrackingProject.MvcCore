@@ -6525,11 +6525,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ademk\\OneDrive\\Masaüstü\\C# Projects\\JobTrackingProject\\JobTrackingProject.DataAccess\\JobTrackingProject.DataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\ademk\\OneDrive\\Belgeler\\GitHub\\JobTrackingProject\\JobTrackingProject.MvcCore\\JobTrackingProject.DataAccess\\JobTrackingProject.DataAccess.csproj",
       "projectName": "JobTrackingProject.DataAccess",
-      "projectPath": "C:\\Users\\ademk\\OneDrive\\Masaüstü\\C# Projects\\JobTrackingProject\\JobTrackingProject.DataAccess\\JobTrackingProject.DataAccess.csproj",
+      "projectPath": "C:\\Users\\ademk\\OneDrive\\Belgeler\\GitHub\\JobTrackingProject\\JobTrackingProject.MvcCore\\JobTrackingProject.DataAccess\\JobTrackingProject.DataAccess.csproj",
       "packagesPath": "C:\\Users\\ademk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ademk\\OneDrive\\Masaüstü\\C# Projects\\JobTrackingProject\\JobTrackingProject.DataAccess\\obj\\",
+      "outputPath": "C:\\Users\\ademk\\OneDrive\\Belgeler\\GitHub\\JobTrackingProject\\JobTrackingProject.MvcCore\\JobTrackingProject.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -6550,8 +6550,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\ademk\\OneDrive\\Masaüstü\\C# Projects\\JobTrackingProject\\JobTrackingProject.Entities\\JobTrackingProject.Entities.csproj": {
-              "projectPath": "C:\\Users\\ademk\\OneDrive\\Masaüstü\\C# Projects\\JobTrackingProject\\JobTrackingProject.Entities\\JobTrackingProject.Entities.csproj"
+            "C:\\Users\\ademk\\OneDrive\\Belgeler\\GitHub\\JobTrackingProject\\JobTrackingProject.MvcCore\\JobTrackingProject.Entities\\JobTrackingProject.Entities.csproj": {
+              "projectPath": "C:\\Users\\ademk\\OneDrive\\Belgeler\\GitHub\\JobTrackingProject\\JobTrackingProject.MvcCore\\JobTrackingProject.Entities\\JobTrackingProject.Entities.csproj"
             }
           }
         }

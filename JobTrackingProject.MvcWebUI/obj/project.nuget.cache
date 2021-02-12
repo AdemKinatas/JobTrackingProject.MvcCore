@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1rYbRQP9J0fCLnFO+CmKm05rpn9qKtL6v+PrToG/NJa9+aP1ux4nEJdoU6useHCYDHmZLMSTRB58qbYqYHcBtg==",
+  "dgSpecHash": "05G3RtMDTGzGrWa/jOHSPtlAOd1PowNFMUxLLhK8TfofMTvpNy/AqaPwsU/Prbj4450g7sr4adOkKgezyGfkgg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ademk\\OneDrive\\Masaüstü\\C# Projects\\JobTrackingProject\\JobTrackingProject.MvcWebUI\\JobTrackingProject.MvcWebUI.csproj",
+  "projectFilePath": "C:\\Users\\ademk\\OneDrive\\Belgeler\\GitHub\\JobTrackingProject\\JobTrackingProject.MvcCore\\JobTrackingProject.MvcWebUI\\JobTrackingProject.MvcWebUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ademk\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
     "C:\\Users\\ademk\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qmUkByS0OWKhJmU2xrRX51v6Sxn7pmTksUMrue7QGSCtxCUPDzo9TWR05I5z17QDFoFD5jmCDGAJkmvxsLvZBQ==",
+  "dgSpecHash": "qt3aCGZgra64dei6XnTzbsT24UunOhXn6OIVSauXKYGUxF0PLaj0sQOQnq3CV7WsHzwnRPh0NS28kIEpcQiIyg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ademk\\OneDrive\\Masaüstü\\C# Projects\\JobTrackingProject\\JobTrackingProject.DataAccess\\JobTrackingProject.DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\ademk\\OneDrive\\Belgeler\\GitHub\\JobTrackingProject\\JobTrackingProject.MvcCore\\JobTrackingProject.DataAccess\\JobTrackingProject.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ademk\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
     "C:\\Users\\ademk\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
