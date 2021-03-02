@@ -9,7 +9,7 @@ namespace JobTrackingProject.DataAccess.Concrete.EntityFrameworkCore.Contexts
     {
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("server=.; database=JobTrackingProject; user id=sa; password=123;");
+            optionsBuilder.UseSqlServer("server=.; database=JobTrackingProjectDb; user id=sa; password=123;");
 
             base.OnConfiguring(optionsBuilder);
         }
